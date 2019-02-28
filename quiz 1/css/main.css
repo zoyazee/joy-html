@@ -1,0 +1,18 @@
+
+body{
+	background-color:yellow;
+}
+
+h1{
+	background-color: red;
+	border: solid;
+	border-image: 30px;
+	padding: 50px;
+	font-style;
+	text-align: center;
+}
+
+p{
+	background-color: grey;
+	font-size: 30px;
+}	
