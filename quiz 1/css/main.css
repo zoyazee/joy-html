@@ -12,7 +12,55 @@ h1{
 	text-align: center;
 }
 
-p{
-	background-color: grey;
+
+.red-panel {
+	background-color: grey;	
 	font-size: 30px;
+	color: red;
+}
+
+.love {
+	background-color: blue;
+	border: solid;
+	border-image: 30px;
+	padding: 50px;
+	text-align: center;
+	border-width: 50px;
+	width: 20;
 }	
+
+body {
+	background colour: blue;
+	
+}
+
+header {
+	background-color: white;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: black;
+}
+
+header ul li {
+	display: inline;
+	font-size: 14px;
+}
+
+
+/*START : CONTENT*/
+.main-container {
+	width: 500px;
+	border-width: 800;
+	background-color: white;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+header img{
+	width: 200;
+}
+
+.main-container .my-dog-list{
+	background-color: grey;
+	padding: 30px;
+}

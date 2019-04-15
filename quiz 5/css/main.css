@@ -1,0 +1,17 @@
+body{
+	background-image:url(../img/flying-birds.gif),url(../img/flying-birds.png),url(../img/hearts.png),url(../img/nature.jpg);
+	background-size: 50px,40%,20%,cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: 90% 10%,right 15%,5% 5%,center;
+	background-color: #ccc;
+}
+
+.kenzee{
+	background-color:rgba(0,0,0,0.5);
+	width: 600px;
+	padding: 30px;
+	margin: 0 auto;
+	color: #fff;
+	min-height: 500px;
+}
