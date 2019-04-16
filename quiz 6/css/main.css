@@ -1,0 +1,53 @@
+body{
+	background-color: #ccc;
+	font-family: arial;
+}
+
+.zee{
+	width: 800px;
+	margin: 40px auto;
+}
+
+.zee table{
+	width: 100%;
+	background-color: #fff;
+	text-align: left;
+	border: 1px solid #aaa;
+	border-collapse: collapse;
+}
+.zee table th{
+	background-color: #333;
+	color: #fff;
+	padding: 10px;
+} 
+
+
+.zee table tr{
+	border-bottom: 1px solid #aaa;
+}
+
+.zee table tr td{
+	padding: 10px;
+	border-right: 1px solid #aaa;
+}
+.zee table tr th{
+	padding: 10px;
+	background: #333;
+	color: #fff;
+}
+.zee table tr:nth-child(odd){
+	padding: 10px;
+	background-color: Magenta;
+}
+.zee table tr td:last-child{
+	font-weight: bold;
+}
+.zee table tr:last-child{
+	font-weight: bold;
+}
+.zee table tr:last-child{
+	border-bottom: none;
+}
+.zee table tr td:last-child{
+	border-right: none;
+}
