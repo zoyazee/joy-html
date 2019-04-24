@@ -1,0 +1,51 @@
+body{
+	background-color: #ccc;
+	font-family: arial;
+}
+
+.Zoya{
+	width: 600px;
+	margin: 0 auto;
+	min-height: 500px;	
+}
+.Zoya p{
+	background-color: white;
+
+}
+header{
+	background-color: pink;
+	width: 600px;
+	margin: 0 auto;
+	height: 50px;
+}
+.wanja h1{
+	margin: 0 auto;
+	text-align: center;
+
+}
+.Zoyazee{
+	width: 600px;
+	min-height: 200px;
+	margin: 0 auto;
+}
+.Zoyazee.map{
+	width: 100%;
+	text-align: center;
+}
+.Zoyazee.map p{
+	background-color: white;
+	width: 900px;
+	margin: 0 auto;
+	margin-bottom: 10px;
+	height: 50px;
+}
+.Zoyazee h1{
+	background-color: pink;
+	width: 700px;
+	margin: 0 auto;
+	margin-bottom: 10px;
+	margin-top: 20px;
+}
+.Joy{
+	height: 50px;
+}
